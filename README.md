@@ -132,7 +132,8 @@ An intelligent automation system that analyzes resumes and generates comprehensi
 ---
 
 ## 🧪 Sample Request Structure
-```
+
+```JSON
 {
   "email": "you@example.com",
   "jobLink": "https://company.com/jobs/123",
